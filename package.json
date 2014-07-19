@@ -1,0 +1,27 @@
+{
+  "name": "jquery.search",
+  "version": "1.1.1",
+  "description": "Simple to operate localtion search.",
+  "keywords": [
+    "jquery",
+    "yquery",
+    "ydr",
+    "location",
+    "query",
+    "search"
+  ],
+  "author": {
+    "name": "cloudcome",
+    "email": "cloudcome@163.com"
+  },
+  "homepage": "https://ydr.me/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloudcome/jquery.search"
+  },
+  "licenses": "MIT",
+  "spm": {
+    "main": "jquery.search.js",
+    "dependencies": {}
+  }
+}
